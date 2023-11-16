@@ -1,1 +1,1 @@
-# lol-playbutton
+# League of Legends PlayButton
