@@ -20,7 +20,7 @@ This project is a detailed breakdown of the open-source WPF application "League 
 
 ## 🎬  Preview Video 
 
-<video src="https://github.com/quyang115/lol-playbutton/blob/main/PlayButton_Shorts.mp4" /> 
+k k
 
 ## 📷  Project Content Screenshots
 
