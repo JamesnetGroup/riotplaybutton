@@ -18,7 +18,7 @@ This project is a detailed breakdown of the open-source WPF application "League 
 - Focus on high-level design expressions without dependency on commercial components.
 
 ## 🎬  Preview Video 
-<video src="" /> 
+<video src="https://github.com/quyang115/lol-playbutton/blob/main/PlayButton_Shorts.mp4" /> 
 ## 📷  Project Content Screenshots
 <img width="794" alt="스크린샷 2023-11-21 오후 6 44 59" src="https://github.com/quyang115/lol-playbutton/assets/101777355/902c08f3-c059-4dd1-b364-a83994161b9a">
 <img width="1210" alt="스크린샷 2023-11-21 오후 6 57 08" src="https://github.com/quyang115/lol-playbutton/assets/101777355/e402648f-652c-4243-b42e-32a1c035dd87">
