@@ -22,6 +22,8 @@ This project is a detailed breakdown of the open-source WPF application "League 
 ## 📷  Project Content Screenshots
 <img width="794" alt="스크린샷 2023-11-21 오후 6 44 59" src="https://github.com/quyang115/lol-playbutton/assets/101777355/902c08f3-c059-4dd1-b364-a83994161b9a">
 <img width="1210" alt="스크린샷 2023-11-21 오후 6 57 08" src="https://github.com/quyang115/lol-playbutton/assets/101777355/e402648f-652c-4243-b42e-32a1c035dd87">
+![IMG_8340](https://github.com/quyang115/lol-playbutton/assets/101777355/4ec83bba-6288-4a5b-97e8-e5afc75285c5)
+
 
 
 
