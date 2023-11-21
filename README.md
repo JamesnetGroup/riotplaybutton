@@ -3,6 +3,7 @@
 ## Project Introduction
 This project is a detailed breakdown of the open-source WPF application "League of Legends" game interface we developed a few years ago. Our goal is to dissect the components and extensively showcase the capabilities of WPF. This series is a guide on how to manage WPF projects effectively and efficiently.
 #### [Full Project](https://github.com/jamesnet214/leagueoflegends) 
+https://user-images.githubusercontent.com/52397976/124482513-526ba380-dde4-11eb-9b31-c3c1199987b6.png
 
 ### What You Will Learn:
 - Directly drawing special graphics within WPF projects without external design software.
