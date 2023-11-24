@@ -4,7 +4,7 @@
 ## 📄 Project Introduction
 This project is a detailed breakdown of the open-source WPF application "League of Legends" game interface we developed a few years ago. Our goal is to dissect the components and extensively showcase the capabilities of WPF. This series is a guide on how to manage WPF projects effectively and efficiently.
 #### [Here-Full Project](https://github.com/jamesnet214/leagueoflegends) 
-![image](https://github.com/quyang115/lol-playbutton/assets/101777355/eadf406c-df53-49a8-85e6-97a2340f3bf9)
+![image](https://github.com/quyang115/lol-playbutton/assets/52397976/8f423c90-3d9c-4d72-a0af-ded9eb176c7d)
 
 
 ### 📝 What You Will Learn:
