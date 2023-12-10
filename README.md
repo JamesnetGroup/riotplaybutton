@@ -121,13 +121,13 @@ In this section of the game, the stroke part is not a simple solid color but a g
 
 
  - #### StartPoint and EndPoint
-  StartPoint specifies the gradient's starting point, typically represented using relative coordinates, where (0, 0) is the top-left corner, and (1, 1) is the bottom-right corner. EndPoint specifies the gradient's ending point, also using relative coordinates.
+   StartPoint specifies the gradient's starting point, typically represented using relative coordinates, where (0, 0) is the top-left corner, and (1, 1) is the bottom-right corner. EndPoint specifies the gradient's ending point, also using relative coordinates.
  - #### GradientStops
-  GradientStops is a collection of GradientStop objects, each defining a color and a relative position (Offset). The Color property of GradientStop defines the color at the specified position, and the Offset property defines the color's position in the gradient, typically ranging from 0 to 1.
+   GradientStops is a collection of GradientStop objects, each defining a color and a relative position (Offset). The Color property of GradientStop defines the color at the specified position, and the Offset property defines the color's position in the gradient, typically ranging from 0 to 1.
  - #### Gradient Direction
-  The gradient's direction is determined by StartPoint and EndPoint. For example, if StartPoint is (0, 0) and EndPoint is (1, 1), the gradient will transition from the top-left corner to the bottom-right corner.
+   The gradient's direction is determined by StartPoint and EndPoint. For example, if StartPoint is (0, 0) and EndPoint is (1, 1), the gradient will transition from the top-left corner to the bottom-right corner.
  - #### Gradient Type
-  LinearGradientBrush defaults to linear gradient, where colors transition along a straight line. By adjusting StartPoint and EndPoint, you can change the gradient's direction and starting point to create various gradient effects.
+   LinearGradientBrush defaults to linear gradient, where colors transition along a straight line. By adjusting StartPoint and EndPoint, you can change the gradient's direction and starting point to create various gradient effects.
 In this project, we aim to create a vertical gradient starting from the center of the shape and moving downwards. Therefore, we set StartPoint to (0.5, 0), indicating that the gradient's starting point is at the top center (horizontal midpoint). EndPoint is set to (0.5, 1), indicating that the gradient's ending point is at the bottom center (horizontal midpoint).
 
 ![image](https://github.com/vickyqu115/lol-playbutton/assets/101777355/a39d6838-e436-47e2-9c48-c2f04d365842)
