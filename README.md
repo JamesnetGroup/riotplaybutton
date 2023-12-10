@@ -36,6 +36,7 @@ By using an analyzer, we can see that this PLAY button inherits properties from 
 The first two graphics can be easily encoded using Border controls. However, the third graphic, which includes a pointed end and an arc, cannot be encoded using a simple Border. Therefore, our initial thought might be to use a Polygon and coordinates for drawing. Still, the Polygon property cannot provide functionality for drawing arcs. Hence, we should use the Path control for encoding.
 
 #### Detailed Analysis
+
 ```XAML
 <Style TargetType="{x:Type Path}" x:Key="Arrow">
     <Setter Property="Fill" Value="#1E2328"/>
@@ -91,6 +92,7 @@ Since this is a symmetrical shape, the Y-coordinate of the second line is half t
 Next is the part for drawing curves: C 10,14 0,0 0,0 z: This is a "Bezier Curve" command, defining a Bézier curve where the preceding points are control points, and the subsequent point is the endpoint. This command defines a Bézier curve with control point (10, 14) and endpoint (0, 0), and it uses the 'z' command to close the path by connecting it to the starting point (0, 0).
 
 ### 2. Creating Gradient Colors
+
 ```XAML
 <LinearGradientBrush x:Key="ArrowStroke" StartPoint="0.5,0" EndPoint="0.5,1" >
        <GradientStop Color="#CC3FE7EE" Offset="0"/>
@@ -161,7 +163,9 @@ Therefore, adjustments are needed in the Margin of the Path considering StrokeTh
 Additionally, since the top Margin increases by 5 pixels, the bottom may appear cut off, as in this situation. To prevent this, you can set the bottom Margin to -5 pixels. This balances the layout by removing the 5 pixels added at the top. Another approach is to keep the bottom Margin at 0 pixels. Both methods prevent the bottom from being cut off due to the added top Margin.
 
 ### 4. Creating Animations using Jamesnet.WPF Nuget
+
 <br/>
+
 ```XAML 
 <Application x:Class="VickyPlayButton.App"
                     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
@@ -265,7 +269,9 @@ Animations can be defined using ControlTemplate.Resources, which allows you to d
 To facilitate the creation and use of animations, we have compiled and organized various animations from WPF into the Jamesnet.WPF Nuget package. By simply adding this package, you can easily use and write animations.
 
 ### 5. Using the Clip Property
+
 <br/>
+
 ```XAML
 <Grid Background="{TemplateBinding Background}">
            <Border Style="{StaticResource GoldLine}"/>
@@ -281,7 +287,9 @@ To facilitate the creation and use of animations, we have compiled and organized
     </Grid>
 </Grid>
 ```
+
 <br/>
+
 Since elements within the Grid overlap each other, when creating the animation for text scrolling up and down, a visual issue may arise where the text appears to extend beyond the borders. To address this, the <Grid.Clip> property is used.
 
 ![image](https://github.com/vickyqu115/lol-playbutton/assets/101777355/734e6251-21e6-441b-8228-2801075f4ac4)
