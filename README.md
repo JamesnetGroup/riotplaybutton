@@ -10,7 +10,7 @@ This article provides a detailed explanation and analysis of developing a PLAY b
 We have turned the content of this article into an instructional video and posted it on YouTube, where everyone can practice along with the video.
 
 - Youtube(English/Korean)：[League of Legends PlayButton- WPF Project](https://www.youtube.com/watch?v=xgUqDavCJGg)
-- Bilibili(Chinese)：[League of Legends PlayButton- WPF Project]([https://www.youtube.com/watch?v=xgUqDavCJGg](https://www.bilibili.com/video/BV1Tu4y1j7Ei/?spm_id_from=333.999.0.0&vd_source=f62a1783ac9166a4d798823ad1861fd2))
+- Bilibili(Chinese)：[League of Legends PlayButton- WPF Project](https://www.bilibili.com/video/BV1Tu4y1j7Ei)
 - GitHub：[League of Legends PLAY Button - WPF Project](https://github.com/vickyqu115/lol-playbutton)
 - GitHub：[League of Legends Full Project-WPF](https://github.com/jamesnet214/leagueoflegends)
 
