@@ -7,14 +7,13 @@ This article provides a detailed explanation and analysis of developing a PLAY b
 
 ![image](https://github.com/vickyqu115/lol-playbutton/assets/101777355/0b18b4d3-4759-4e07-92ec-aa6a96eaba0e)
 
-
-
 We have turned the content of this article into an instructional video and posted it on YouTube, where everyone can practice along with the video.
 
 - Youtube：[League of Legends PlayButton- WPF Project](https://www.youtube.com/watch?v=xgUqDavCJGg)
 - GitHub：[League of Legends PLAY Button - WPF Project](https://github.com/vickyqu115/lol-playbutton)
 - GitHub：[League of Legends Full Project-WPF](https://github.com/jamesnet214/leagueoflegends)
 
+<img src="https://github.com/vickyqu115/lol-playbutton/assets/101777355/933d2c7b-ebf4-40b9-8deb-7a70e6c40446" width="700px"/>
 
 ## Introduction
 User interface components are crucial for enhancing the user experience. In games, a responsive and visually appealing PLAY button serves as the gateway to the world of entertainment. This article showcases the process of creating a PLAY button using WPF, which provides a powerful framework for building rich desktop applications.
