@@ -343,5 +343,20 @@ Additionally, we have depicted the process of the curve changing over time.
 
 ![](https://jamesnetdev.blob.core.windows.net/articleimages/13b6b811-9ae2-40ea-885e-2f06f9f8286f.png)
 
+The **start and end** points of the blue segments draw the curve as the control points move. For a detailed visual effect, refer to [this blog](https://blog.naver.com/kyuniitale/40022945907), which provides an excellent animated explanation.
+
+In this case, using a quadratic Bézier curve is more appropriate than a cubic Bézier curve, as fewer control points are needed for a quadratic Bézier curve.
+
+Cubic Bézier curve:
+
+> M 0,0 L 103,0 L 118,14 L 103,28 L 0,28 C 10,14 0,0 0,0 Z
+
+Quadratic Bézier curve:
+
+> M 0,0 L 103,0 L 118,14 L 103,28 L 0,28 Q 10,14 0,0 Z
+
+![](https://jamesnetdev.blob.core.windows.net/articleimages/82645194-9b90-42ce-8f82-30bb5bb1f683.png)
+
+In conclusion, using a quadratic Bézier curve is more suitable in this situation.
 
 
