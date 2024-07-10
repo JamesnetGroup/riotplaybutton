@@ -300,3 +300,48 @@ Since elements within the Grid overlap each other, when creating the animation f
 In this project, the <Grid.Clip> region is set within the size of the Path: Rect="0,5,165,28". This ensures that the text only appears within this region, resulting in the up-and-down scrolling effect within the Path.
 
 
+### * Video Content Correction
+
+Recently, a viewer pointed out an error in our video, and I am here to make corrections and provide explanations.
+
+> 11:34 The point C in the Bézier curve is not the midpoint of the arc; the control point is outside the line.
+
+"In the Bézier curve, point C is not the midpoint of the curve. The control point is outside the curve."
+
+At 11:34 in the video, you will see the following content (image matches the video explanation).
+
+![](https://jamesnetdev.blob.core.windows.net/articleimages/8d772af2-1cfa-4d2f-a40e-a4daa6767efb.png)
+
+Upon re-examination, I found that there was indeed a misunderstanding in explaining the Bézier curve. Thanks to the viewer's correction, I will now make the necessary adjustments.
+
+------
+
+First, the path used in the video is as follows:
+
+> M 0,0 L 103,0 L 118,14 L 103,28 L 0,28 C 10,14 0,0 0,0 Z
+
+The reversal of the Y-axis 0,0 baseline does not significantly affect the understanding. Please bear with us.
+
+![](https://jamesnetdev.blob.core.windows.net/articleimages/89f739d0-2dbe-45fa-b8de-465c5ea6a97f.png)
+
+As shown in the generated graph, the position of the control point C (10, 14) is actually outside the curve, not at the midpoint. This is precisely the issue pointed out by the viewer.
+
+--------------
+
+Next, let's take a closer look at the mechanism of the cubic Bézier curve.
+
+A cubic Bézier curve requires four points: P0, P1, P2, and P3. According to the current geometric path data, they map as follows:
+
+> P0: 0,28 (start point)  
+> P1: 10,14 (control point 1)  
+> P2: 0,0 (control point 2)  
+> P3: 0,0 (end point)
+
+![](https://jamesnetdev.blob.core.windows.net/articleimages/4bae023c-0cb4-4c1c-b2e7-688c4dd765d4.png)
+
+Additionally, we have depicted the process of the curve changing over time.
+
+![](https://jamesnetdev.blob.core.windows.net/articleimages/13b6b811-9ae2-40ea-885e-2f06f9f8286f.png)
+
+
+
