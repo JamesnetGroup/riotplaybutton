@@ -1,3 +1,4 @@
+##### *Introduction to Other Language Versions: [Jamesnet](https://jamesnet.dev/article/146)
 
 ![image](https://github.com/vickyqu115/lol-playbutton/assets/101777355/5ddc0809-974d-4c52-b6eb-b5a018dd61fa)
 
@@ -358,5 +359,7 @@ Quadratic Bézier curve:
 ![](https://jamesnetdev.blob.core.windows.net/articleimages/82645194-9b90-42ce-8f82-30bb5bb1f683.png)
 
 In conclusion, using a quadratic Bézier curve is more suitable in this situation.
+
+
 
 
