@@ -51,8 +51,6 @@ RiotPlayButton은 리그 오브 레전드 게임 클라이언트의 PLAY 버튼�
 <img src="https://github.com/user-attachments/assets/a3a52292-c9ac-441f-bf5c-9f3dd40823e5" width="49%"/>
 <img src="https://github.com/user-attachments/assets/c777c08a-9680-4b6c-97e8-1a1edc5d6fb5" width="49%"/>
 
-[이미지 섹션은 동일하게 유지]
-
 ## 기술 스택
 - WPF (Windows Presentation Foundation)
 - .NET 8.0
