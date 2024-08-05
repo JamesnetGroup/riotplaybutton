@@ -13,10 +13,10 @@ RiotPlayButton is a custom WPF control that recreates the PLAY button from the L
 
 <img src="https://github.com/user-attachments/assets/cc980d89-4479-4c4d-8d6a-d97593e12b3b" width="49%"/>
 <img src="https://github.com/user-attachments/assets/033e7a46-c0d2-4f3c-9566-69ec0028f442" width="49%"/>
-<img src="https://github.com/user-attachments/assets/218fe98c-dfa8-4eb0-9038-c8f4199f107b" width="49%"/>
 <img src="https://github.com/user-attachments/assets/ea15edee-6efd-43c5-b796-226ccb78e89a" width="49%"/>
 <img src="https://github.com/user-attachments/assets/4beb7730-cfd5-46fb-9a5e-31075ae0db2d" width="49%"/>
 <img src="https://github.com/user-attachments/assets/7d0f803c-c8f7-40e0-a324-7ecc4b75126a" width="49%"/>
+<img src="https://github.com/user-attachments/assets/218fe98c-dfa8-4eb0-9038-c8f4199f107b" width="49%"/>
 
 ## Key Features and Implementations
 #### 1. Custom WPF Control Development
