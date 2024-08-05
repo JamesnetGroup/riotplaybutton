@@ -13,10 +13,10 @@ RiotPlayButton은 리그 오브 레전드 게임 클라이언트의 PLAY 버튼�
 
 <img src="https://github.com/user-attachments/assets/cc980d89-4479-4c4d-8d6a-d97593e12b3b" width="49%"/>
 <img src="https://github.com/user-attachments/assets/033e7a46-c0d2-4f3c-9566-69ec0028f442" width="49%"/>
-<img src="https://github.com/user-attachments/assets/218fe98c-dfa8-4eb0-9038-c8f4199f107b" width="49%"/>
 <img src="https://github.com/user-attachments/assets/ea15edee-6efd-43c5-b796-226ccb78e89a" width="49%"/>
 <img src="https://github.com/user-attachments/assets/4beb7730-cfd5-46fb-9a5e-31075ae0db2d" width="49%"/>
 <img src="https://github.com/user-attachments/assets/7d0f803c-c8f7-40e0-a324-7ecc4b75126a" width="49%"/>
+<img src="https://github.com/user-attachments/assets/218fe98c-dfa8-4eb0-9038-c8f4199f107b" width="49%"/>
 
 ## 주요 기능 및 구현 사항
 #### 1. 사용자 정의 WPF 컨트롤 개발
@@ -84,9 +84,9 @@ git clone https://github.com/vickyqu115/riotplaybutton.git
 - [x] Windows 11 권장
 
 ## 학습 자료
-- [구현에 대한 상세 아티클](https://jamesnet.dev/article/51)
-- [YouTube 튜토리얼](https://bit.ly/40YoVIo)
-- [BiliBili 튜토리얼](https://bit.ly/49L6dXu)
+- [구현에 대한 상세 아티클 (jamesnet.dev)](https://jamesnet.dev/article/51)
+- [YouTube 튜토리얼 (영어, 한글자막)](https://bit.ly/40YoVIo)
+- [BiliBili 튜토리얼 (중국어)](https://bit.ly/49L6dXu)
 
 ## 기여하기
 RiotPlayButton에 대한 기여를 환영합니다! 이슈를 제출하거나, 풀 리퀘스트를 생성하거나, 개선 사항을 제안해 주세요.
