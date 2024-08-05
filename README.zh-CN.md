@@ -13,10 +13,10 @@ RiotPlayButton是一个自定义WPF控件，重现了英雄联盟游戏客户端
 
 <img src="https://github.com/user-attachments/assets/cc980d89-4479-4c4d-8d6a-d97593e12b3b" width="49%"/>
 <img src="https://github.com/user-attachments/assets/033e7a46-c0d2-4f3c-9566-69ec0028f442" width="49%"/>
-<img src="https://github.com/user-attachments/assets/218fe98c-dfa8-4eb0-9038-c8f4199f107b" width="49%"/>
 <img src="https://github.com/user-attachments/assets/ea15edee-6efd-43c5-b796-226ccb78e89a" width="49%"/>
 <img src="https://github.com/user-attachments/assets/4beb7730-cfd5-46fb-9a5e-31075ae0db2d" width="49%"/>
 <img src="https://github.com/user-attachments/assets/7d0f803c-c8f7-40e0-a324-7ecc4b75126a" width="49%"/>
+<img src="https://github.com/user-attachments/assets/218fe98c-dfa8-4eb0-9038-c8f4199f107b" width="49%"/>
 
 ## 主要特性和实现
 #### 1. 自定义WPF控件开发
@@ -84,9 +84,9 @@ git clone https://github.com/vickyqu115/riotplaybutton.git
 - [x] 推荐使用Windows 11
 
 ## 学习资源
-- [详细实现文章](https://jamesnet.dev/article/51)
-- [YouTube教程](https://bit.ly/40YoVIo)
-- [哔哩哔哩教程](https://bit.ly/49L6dXu)
+- [详细实现文章 (jamesnet.dev)](https://jamesnet.dev/article/51)
+- [YouTube教程 (English)](https://bit.ly/40YoVIo)
+- [哔哩哔哩教程 (Chinese)](https://bit.ly/49L6dXu)
 
 ## 贡献
 欢迎为RiotPlayButton做出贡献！随时提交问题、创建拉取请求或提出改进建议。
