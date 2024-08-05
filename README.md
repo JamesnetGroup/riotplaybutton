@@ -84,9 +84,9 @@ git clone https://github.com/vickyqu115/riotplaybutton.git
 - [x] Windows 11 recommended
 
 ## Learning Resources
-- [Detailed Article on Implementation](https://jamesnet.dev/article/51)
-- [YouTube Tutorial](https://bit.ly/40YoVIo)
-- [BiliBili Tutorial](https://bit.ly/49L6dXu)
+- [Detailed Article on Implementation (jamesnet.dev)](https://jamesnet.dev/article/51)
+- [YouTube Tutorial (English)](https://bit.ly/40YoVIo)
+- [BiliBili Tutorial (Chinese)](https://bit.ly/49L6dXu)
 
 ## Contributing
 Contributions to RiotPlayButton are welcome! Feel free to submit issues, create pull requests, or suggest improvements.
