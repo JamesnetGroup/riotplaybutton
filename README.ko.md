@@ -1,4 +1,4 @@
-# RiotPlayButton [![English](https://img.shields.io/badge/Language-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/Language-中文-red.svg)](README.zh-CN.md) [![한국어](https://img.shields.io/badge/Language-한국어-red.svg)](README.ko.md)
+# RiotPlayButton [![English](https://img.shields.io/badge/Language-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/Language-中文-red.svg)](README.zh-CN.md) [![한국어](https://img.shields.io/badge/Language-한국어-green.svg)](README.ko.md)
 
 리그 오브 레전드의 PLAY 버튼에서 영감을 받은 사용자 정의 WPF ToggleButton 기반 컨트롤
 
